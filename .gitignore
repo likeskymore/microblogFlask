@@ -1,0 +1,13 @@
+# Environment
+.flaskenv
+.env
+
+# Database
+app.db
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
